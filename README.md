@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @querciwa, palin name is: Valter Quercioli
+- 👋 Hi, I’m @querciwa, plain name is: Valter Quercioli
 - 👀 I’m interested in artificial intelligence applications in business, especially for the business' AI Governance. I'm very keen with NLP-related applications and technologies
 - 🌱 I’m currently learning how to implement AI products, services and projetcs in business
 - 💞️ I’m looking to collaborate on AI Governance and AI Implementation Projects
